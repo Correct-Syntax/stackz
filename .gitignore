@@ -1,0 +1,6 @@
+
+# Ignore python misc.
+__pycache__
+
+# Ignore test images
+*jpeg
